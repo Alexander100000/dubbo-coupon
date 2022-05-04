@@ -1,4 +1,4 @@
-package com.dubbo.couponapplication;
+package net.dubbo.couponapplication;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

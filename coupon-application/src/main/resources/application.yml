@@ -1,2 +1,8 @@
 server:
-  port: 80911
+  port: 8091
+spring:
+  datasource:
+    driver-class-name: com.mysql.cj.jdbc.Driver
+    url: 自己填
+    username: root
+    password: 12345678
